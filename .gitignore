@@ -1,0 +1,24 @@
+# Virtual environment
+vnenv/
+venv/
+env/
+
+# Database
+instance/
+*.db
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
